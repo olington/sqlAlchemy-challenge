@@ -70,5 +70,8 @@ Return a JSON list of the minimum temperature, the average temperature, and the 
 
 For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date.
 
-For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
+Assistance from the following-
+• Tutorial with Michael Wenz • Ask BCS sessions • ChatGPT References:
+
+In-class activities used for this assignment: [https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/tree/main/01-Lesson-Plans/06-Python-APIs](https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/tree/main/01-Lesson-Plans/10-Advanced-SQL)
 
