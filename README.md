@@ -179,3 +179,7 @@ Comments (4 points)
 To receive all points, your code must:
 Be well commented with concise, relevant notes that other developers can understand. (4 points)
 
+
+Assistance from the following- • Tutorial with Michael Wenz • Ask BCS sessions • ChatGPT References:
+
+In-class activities used for this assignment: https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/tree/main/01-Lesson-Plans/10-Advanced-SQL
